@@ -1,6 +1,6 @@
 name = "xkbcommon_jll"
 uuid = "d8fb68d0-12a3-5cfd-a85a-d49703b185fd"
-version = "0.9.1+2"
+version = "0.9.1+3"
 
 [deps]
 Xorg_xkeyboard_config_jll = "33bec58e-1273-512f-9401-5d533626f822"
